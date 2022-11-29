@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Android App Programming</string>
+    <string name="button1">BROADCAST NOW</string>
+</resources>
