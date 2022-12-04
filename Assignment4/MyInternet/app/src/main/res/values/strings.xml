@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyInternet</string>
+    <string name="button_text">이미지 다운로드</string>
+    <string name="image_address">https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/DONGGUK_UNIVERSITY_%ED%8C%94%EC%A0%95%EB%8F%84.jpg/1280px-DONGGUK_UNIVERSITY_%ED%8C%94%EC%A0%95%EB%8F%84.jpg</string>
+</resources>
